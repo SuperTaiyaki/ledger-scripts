@@ -1,0 +1,8 @@
+# vim:filetype=ledger
+include ~/ledger/${LASTMONTH}
+
+#UNCONFIRMED
+${DATE}-25 Salary
+	Assets:Savings	Y999,999,999
+	Income:Salary
+
